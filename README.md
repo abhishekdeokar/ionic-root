@@ -10,7 +10,7 @@ The only difference being, the REST API was created using Loopback Framework for
 
 Changes to the app design can be made with reference from the Ionic documentation. Ionic allows app design for Android, iOS and Windows Phone.
 
-The app does not yet run flawlessly. For running the app:
+The app does not yet run flawlessly. For running the app, type the commands below in the terminal from the ionicApp folder:
 
 	ionic serve
 
