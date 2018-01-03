@@ -10,7 +10,17 @@ The only difference being, the REST API was created using Loopback Framework for
 
 Changes to the app design can be made with reference from the Ionic documentation. Ionic allows app design for Android, iOS and Windows Phone.
 
-The app does not yet run flawlessly. For running the app, type the commands below in the terminal from the ionicApp folder:
+As a prerequisite MongoDB server and the Loopback API needs to be running in the background. To do so type the commands below in the terminal from the loopback api folder that you will have created:
+
+	mongod
+
+And in a seperate terminal instance:
+
+	node .
+
+It is not mandatory to run the mongod command from the loopback project folder, and can be run from anywhere.
+
+The app does not yet run flawlessly. For running the app, type the commands below in the terminal from the ionic-root folder:
 
 	ionic serve
 
