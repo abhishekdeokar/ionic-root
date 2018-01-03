@@ -20,7 +20,7 @@ And in a seperate terminal instance:
 
 It is not mandatory to run the mongod command from the loopback project folder, and can be run from anywhere.
 
-The app does not yet run flawlessly. For running the app, type the commands below in the terminal from the ionic-root folder:
+For running the app, type the commands below in the terminal from the ionic-root folder:
 
 	ionic serve
 
@@ -28,4 +28,4 @@ The app does not yet run flawlessly. For running the app, type the commands belo
 
 	ionic lab
 
-On running the app, click on View Devices button first. Then continue with Add Device. Initially the app will not work without clicking on View Devices first, the issue is being worked on.
+The app does not yet run flawlessly. On running the app, click on View Devices button first. Then continue with Add Device. Initially the app will not work without clicking on View Devices first, the issue is being worked on.
