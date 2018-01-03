@@ -20,7 +20,7 @@ And in a seperate terminal instance:
 
 It is not mandatory to run the mongod command from the loopback project folder, and can be run from anywhere.
 
-For running the app, type the commands below in the terminal from the ionic-root folder:
+For running the ionic app, type the commands below in the terminal from the ionic-root folder:
 
 	ionic serve
 
