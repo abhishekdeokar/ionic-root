@@ -1,6 +1,6 @@
-------------------------------
-Integrating Ionic and Loopback
-------------------------------
+
+# Integrating Ionic and Loopback
+
 
 If you have not created the REST API already, which will be required for this app, go to: https://github.com/abdeokar23/ionic-loopback-integration
 
@@ -10,7 +10,7 @@ The only difference being, the REST API was created using Loopback Framework for
 
 Changes to the app design can be made with reference from the Ionic documentation. Ionic allows app design for Android, iOS and Windows Phone.
 
-As a prerequisite MongoDB server and the Loopback API needs to be running in the background. To do so type the commands below in the terminal from the loopback api folder that you will have created:
+As a prerequisite MongoDB server and the Loopback API needs to be running in the background. To do so, type the commands below in a terminal from the loopback api folder that you will have created:
 
 	mongod
 
